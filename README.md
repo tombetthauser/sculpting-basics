@@ -1,4 +1,4 @@
-Molding and Casting Basics
+# Molding and Casting Basics
 
 ---
 
@@ -14,7 +14,7 @@ Molding and Casting Basics
 * [Spray-On Mold Release](https://www.smooth-on.com/product-line/universal-mold-release/)
 
 ## Resin
-* (Smooth Cast 300 from Smooth-On)[https://www.smooth-on.com/products/smooth-cast-300/]
+* [Smooth Cast 300 from Smooth-On](https://www.smooth-on.com/products/smooth-cast-300/)
 * corn starch (food grade)
 
 ## Other Casting Materials
